@@ -1,0 +1,25 @@
+img {
+    max-width: 600px;
+    max-height: 450px;
+}
+
+footer {
+    color: grey;
+}
+
+figcaption {
+    color: grey;
+    font-size: 10px;
+}
+
+p {
+    font-family: Georgia, serif;
+}
+
+ol {
+    font-family: Georgia, serif;
+}
+
+li {
+    font-family: Georgia, serif;
+}
